@@ -1,5 +1,5 @@
-<code> Java Script </code>
-<code> HTML/CSS </code>
-<code> React </code>
-<code> Node.Js </code>
+<code> Python </code>
+<code> data science </code>
+<code> machine learning </code>
+<code> matplotlib </code>
 
