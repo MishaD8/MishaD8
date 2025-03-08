@@ -27,8 +27,8 @@ Working in transport and logistics, I saw firsthand how important **security** i
 ### 🔧 Projects Portfolio
 | Project | Description | Link |
 |---|---|---|
-| Secure S3 Bucket | Automated policy checker & enforcer for S3 security | [[Repo Link](https://github.com/MishaD8/aws-secure-s3.git)] |
-| CloudTrail Log Analyzer | Python script to detect suspicious activities from CloudTrail logs | [Repo Link]() |
+| Secure S3 Bucket | Automated policy checker & enforcer for S3 security | [[Repo Link](https://github.com/MishaD8/aws-secure-s3.git) |
+| CloudTrail Log Analyzer | Python script to detect suspicious activities from CloudTrail logs | [Repo Link](https://github.com/MishaD8/cloudtrail-analyzer.git) |
 | IAM Permissions Auditor | Script to scan and highlight overly permissive IAM policies | [Repo Link](https://github.com/MishaD8/iam-policy-checker.git) |
 | Incident Response Playbook | Practical step-by-step cloud incident response plan | [Repo Link](#) |
 
