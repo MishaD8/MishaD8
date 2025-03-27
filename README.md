@@ -18,9 +18,10 @@ Working in transport and logistics, I saw firsthand how important **security** i
 ---
 
 ### 📚 Certifications (In Progress)
-- AWS Cloud Practitioner (2025)
-- CompTIA Security+ (2025)
-- AWS Security Specialty (2026)
+
+- CompTIA Security+ 
+- RHCSA (EX200) 
+- AWS Security Specialty 
 
 ---
 
