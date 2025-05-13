@@ -51,11 +51,7 @@ Working in transport and logistics, I saw firsthand how important **security** i
 
 ### 💡 About This Profile
 This GitHub will document my **entire transition journey** — from my first AWS command to advanced security projects.  
-Follow along if you’re curious how someone can shift from a non-IT background into **Cloud Security** through self-learning and practical work.
 
----
-
-🚀 *From Trucks to Cloud — and Beyond!*
 
 
 
