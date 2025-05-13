@@ -19,8 +19,9 @@ Working in transport and logistics, I saw firsthand how important **security** i
 
 ### 📚 Certifications (In Progress)
 
-- CompTIA Security+ 
-- RHCSA (EX200) 
+- AWS Cloud Practitioner 
+- AWS Solutions Architect
+- AWS Solutions Architect-Professional
 - AWS Security Specialty 
 
 ---
