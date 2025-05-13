@@ -11,7 +11,6 @@ Working in transport and logistics, I saw firsthand how important **security** i
 ### 🎯 Current Focus
 - AWS Cloud Security (IAM, S3, CloudTrail, GuardDuty)
 - Python for Security Automation
-- Compliance Basics (SOC2, ISO27001)
 - Incident Response in Cloud Environments
 - Building hands-on projects to apply theory to practice
 
@@ -41,8 +40,6 @@ Working in transport and logistics, I saw firsthand how important **security** i
 ✅ IAM, S3, VPC Security  
 ✅ Python for Automation  
 ✅ Linux Administration  
-✅ Network Security Basics  
-✅ Compliance (SOC2, ISO27001 - Beginner)
 
 ---
 
