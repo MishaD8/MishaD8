@@ -1,18 +1,36 @@
-# 👋 Welcome to My Cloud Security Journey!
+# **👋 Welcome to My Cloud Engineering Journey!**
 
 ### 🚀 About Me
-Hi there! My name is Mykhaylo, and I’m currently transitioning from the world of transportation & logistics into **Cloud Security**.
+Hi there! My name is Mykhaylo, and I'm transitioning into **Cloud Engineering**.
 
-🔐 Why Cloud Security?  
-Working in transport and logistics, I saw firsthand how important **security** is for critical supply chains. Now I’m combining that real-world experience with technical skills — to protect cloud environments from modern threats.
+After seven years working on cruise ships across 52 countries and experiencing various industries, I discovered my passion for technology. I taught myself Python, built a machine learning system for predictive analytics, and now I'm diving deep into cloud infrastructure with AWS.
+
+**☁️ Why Cloud Engineering?**
+
+Cloud technology is transforming every industry. I'm fascinated by building scalable, reliable infrastructure that powers modern applications. My background in fast-paced, problem-solving environments translates well to designing and managing cloud systems.
 
 ---
 
-### 🎯 Current Focus
-- AWS Cloud Security (IAM, S3, CloudTrail, GuardDuty)
-- Python for Security Automation
-- Incident Response in Cloud Environments
-- Building hands-on projects to apply theory to practice
+**🎯 Current Focus**
+- AWS cloud services and architecture
+- Infrastructure automation with Python
+- Networking and security fundamentals
+- Building hands-on projects to apply my learning
+
+---
+
+**📚 What You'll Find Here**
+- Cloud engineering projects and labs
+- Python automation scripts
+- Learning documentation and notes
+- Real-world problem-solving implementations
+
+---
+
+**🌱 Learning In Public**
+
+I believe in documenting my journey and sharing what I learn. Follow along as I build projects, tackle challenges, and grow my cloud engineering skills.
+- [Medium](https://medium.com/@mihaeldyachenko)
 
 ---
 
