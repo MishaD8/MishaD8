@@ -34,12 +34,15 @@ I believe in documenting my journey and sharing what I learn. Follow along as I 
 
 ---
 
-### 📚 Certifications (In Progress)
+**🎯 Certification Roadmap**
 
-- AWS Cloud Practitioner 
-- AWS Solutions Architect
-- AWS Solutions Architect-Professional
-- AWS Security Specialty 
+**Next Up:**
+- AWS Certified Cloud Practitioner (In Progress)
+
+**Future Goals:**
+- AWS Certified Solutions Architect - Associate
+- AWS Certified Solutions Architect - Professional 
+- AWS Certified Security - Specialty
 
 ---
 
@@ -53,11 +56,14 @@ I believe in documenting my journey and sharing what I learn. Follow along as I 
 
 ---
 
-### 📂 Skills
-✅ AWS Cloud Fundamentals  
-✅ IAM, S3, VPC Security  
-✅ Python for Automation  
-✅ Linux Administration  
+### 📂 Technical Skills
+
+**Cloud:** AWS (EC2, S3, VPC, IAM, Lambda), Infrastructure as Code  
+**Programming:** Python, Bash scripting, Git/GitHub  
+**Networking:** TCP/IP, DNS, VPC configuration, network troubleshooting  
+**Security:** IAM, security groups, access policies, encryption basics  
+**Systems:** Linux administration, CLI proficiency, package management  
+**Tools:** AWS CLI, VS Code, Docker (learning), Terraform (learning)
 
 ---
 
@@ -68,7 +74,7 @@ I believe in documenting my journey and sharing what I learn. Follow along as I 
 ---
 
 ### 💡 About This Profile
-This GitHub will document my **entire transition journey** — from my first AWS command to advanced security projects.  
+This GitHub documents my **cloud engineering journey** — from foundational AWS labs to production-ready infrastructure projects. You'll find hands-on implementations, automation scripts, and real-world problem-solving as I build my skills in public.
 
 
 
