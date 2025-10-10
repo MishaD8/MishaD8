@@ -1,4 +1,4 @@
-# **👋 Welcome to My Cloud Engineering Journey!**
+# **Welcome to my journey in Cloud Engineering! Exploring, learning, and building innovative cloud solutions one step at a time.**
 
 ### 🚀 About Me
 Hi there! My name is Mykhaylo, and I'm transitioning into **Cloud Engineering**.
