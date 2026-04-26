@@ -14,7 +14,7 @@ Currently building hands-on projects and documenting everything publicly.
 ---
 
 ## 🎯 Certifications
-- ✅ AWS Solutions Architect – Associate *(in progress)*
+- [ ] AWS Solutions Architect – Associate *(in progress)*
 - [ ] Terraform Associate (HashiCorp)
 - [ ] AWS Solutions Architect – Professional
 
