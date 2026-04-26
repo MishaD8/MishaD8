@@ -7,7 +7,7 @@ Currently building hands-on projects and documenting everything publicly.
 
 ## 🔧 Tech Stack
 **Cloud:** AWS (EC2, S3, VPC, IAM, CloudFormation, Terraform)  
-**Code:** Python · TypeScript · Bash 
+**Code:** Python · TypeScript · Bash    
 **Systems:** Linux · Docker · AWS CLI  
 **Focus:** IaC · Networking · Security
 
