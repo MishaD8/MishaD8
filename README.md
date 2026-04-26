@@ -14,8 +14,8 @@ Currently building hands-on projects and documenting everything publicly.
 ---
 
 ## 🎯 Certifications
-- [ ] AWS Solutions Architect – Associate *(in progress)*
-- [ ] CKA – Certified Kubernetes Administrator
+- [✓] AWS Solutions Architect – Associate *(in progress)*
+- [ ] Terraform Associate (HashiCorp)
 - [ ] AWS Solutions Architect – Professional
 
 ---
@@ -35,6 +35,3 @@ Cloud labs · Python automation · IaC projects · Learning notes
 - [Email](mailto:mihaeldyachenko@gmail.com)
 
 ---
-
-### 💡 About This Profile
-This GitHub documents my **cloud engineering journey** — from foundational AWS labs to production-ready infrastructure projects. You'll find hands-on implementations, automation scripts, and real-world problem-solving as I build my skills in public.
