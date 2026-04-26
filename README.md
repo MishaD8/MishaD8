@@ -1,4 +1,4 @@
-# Hi, I'm Mykhaylo 👋
+# Hi, I'm Mischa
 
 Cloud Engineering student transitioning from 7 years at sea (52 countries) to AWS infrastructure.  
 Currently building hands-on projects and documenting everything publicly.
