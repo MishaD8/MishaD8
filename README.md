@@ -44,17 +44,7 @@ I believe in documenting my journey and sharing what I learn. Follow along as I 
 - AWS Certified Solutions Architect - Professional 
 - AWS Certified Security - Specialty
 
----
 
-### 🔧 Projects Portfolio
-| Project | Description | Link |
-|---|---|---|
-| Secure S3 Bucket | Automated policy checker & enforcer for S3 security | [Repo Link](https://github.com/MishaD8/aws-secure-s3.git) |
-| CloudTrail Log Analyzer | Python script to detect suspicious activities from CloudTrail logs | [Repo Link](https://github.com/MishaD8/cloudtrail-analyzer.git) |
-| IAM Permissions Auditor | Script to scan and highlight overly permissive IAM policies | [Repo Link](https://github.com/MishaD8/iam-policy-checker.git) |
-| Incident Response Playbook | Practical step-by-step cloud incident response plan | [Repo Link](https://github.com/MishaD8/Incident-Response-Playbook.git) |
-
----
 
 ### 📂 Technical Skills
 
