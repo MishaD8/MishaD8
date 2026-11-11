@@ -1,14 +1,14 @@
 # Hi, I'm Mischa
 
-Cloud Engineering student transitioning from 7 years at sea (52 countries) to AWS infrastructure.  
+Former cruise ship bartender who has visited 52 countries. Now I’m building a new career in cloud and DevOps. 
 Currently building hands-on projects and documenting everything publicly.
 
 ---
 
 ## 🔧 Tech Stack
-**Cloud:** AWS (EC2, S3, VPC, IAM, CloudFormation, Terraform)  
-**Code:** Python · TypeScript · Bash    
-**Systems:** Linux · Docker · AWS CLI  
+**Cloud:** AWS (EC2, S3, VPC, IAM, Terraform)  
+**Code:** Python · Go · Bash    
+**Systems:** Linux · Docker · AWS CLI · Kubernetes 
 **Focus:** IaC · Networking · Security
 
 ---
@@ -21,12 +21,13 @@ Currently building hands-on projects and documenting everything publicly.
 ---
 
 ## 📂 What's Here
-Cloud labs · Python automation · IaC projects · Learning notes
+Cloud & DevOps labs · Learning notes
 
 ---
 
 ## ✍️ I Write About It
 [Medium](https://medium.com/@mihaeldyachenko)
+[Portfolio Website](https://mykhaylo-dyachenko.dev/)
 
 ---
 
