@@ -9,7 +9,6 @@ Currently building hands-on projects and documenting everything publicly.
 **Cloud:** AWS (EC2, S3, VPC, IAM, Terraform)  
 **Code:** Python · Go · Bash    
 **Systems:** Linux · Docker · AWS CLI · Kubernetes 
-
 **Focus:** IaC · Networking · Security
 
 ---
