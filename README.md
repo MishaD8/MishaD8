@@ -8,7 +8,7 @@ Currently building hands-on projects and documenting everything publicly.
 ## 🔧 Tech Stack
 **Cloud:** AWS (EC2, S3, VPC, IAM, Terraform)  
 **Code:** Python · Go · Bash    
-**Systems:** Linux · Docker · AWS CLI · Kubernetes 
+**Systems:** Linux · Docker · Kubernetes 
 **Focus:** IaC · Networking · Security
 
 ---
