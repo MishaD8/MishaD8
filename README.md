@@ -1,6 +1,6 @@
 # Hi, I'm Mischa
 
-Former cruise ship bartender who has visited 52 countries. Now I’m building a new career in cloud and DevOps. 
+Former cruise ship bartender who has visited 52 countries.
 Currently building hands-on projects and documenting everything publicly.
 
 ---
