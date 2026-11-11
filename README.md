@@ -9,6 +9,7 @@ Currently building hands-on projects and documenting everything publicly.
 **Cloud:** AWS (EC2, S3, VPC, IAM, Terraform)  
 **Code:** Python · Go · Bash    
 **Systems:** Linux · Docker · AWS CLI · Kubernetes 
+
 **Focus:** IaC · Networking · Security
 
 ---
@@ -26,8 +27,8 @@ Cloud & DevOps labs · Learning notes
 ---
 
 ## ✍️ I Write About It
-[Medium](https://medium.com/@mihaeldyachenko)
-[Portfolio Website](https://mykhaylo-dyachenko.dev/)
+- [Medium](https://medium.com/@mihaeldyachenko)
+- [Portfolio Website](https://mykhaylo-dyachenko.dev/)
 
 ---
 
